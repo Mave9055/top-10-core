@@ -1,0 +1,24 @@
+# Top 10 Core: The Summons
+
+This repository contains the recruitment briefing and session script for the **5-Week Top 10 Core** program.
+
+## Overview
+
+The program is designed as a 5-week accelerated core covering ten laws that address trauma, survival mechanisms, and personal sovereignty.
+
+### Schedule
+
+| Week | Theme | Laws Covered |
+| :--- | :--- | :--- |
+| **Week 1** | Why You Feel This Way | Law 1 (The Alarm), Law 2 (The Ghosts) |
+| **Week 2** | Why You Get Stuck | Law 3 (The Shelter), Law 9 (The Freeze) |
+| **Week 3** | Anger and Vigilance | Law 4 (The Mourning), Law 8 (The Exit) |
+| **Week 4** | How You Act | Law 5 (The War-Work), Law 7 (The Disappearing) |
+| **Week 5** | Who You Are | Law 6 (The Mirror), Law 10 (The Circuit Breaker) |
+
+## Contents
+
+- `session-00-the-summons.md`: The word-for-word script for the recruitment briefing.
+
+---
+*Note: This program focuses on understanding the "wiring" and "machine" rather than digging through personal trauma.*
