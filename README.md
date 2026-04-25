@@ -22,6 +22,7 @@ The program is designed as a 5-week accelerated core covering ten laws that addr
 - `session-01-the-alarm.md`: Script for Session 01 covering Law 1: "Your alarm never shuts off."
 - `session-02-the-ghosts.md`: Script for Session 02 covering Law 2: "You're carrying ghosts you never met."
 - `session-03-the-shelter.md`: Script for Session 03 covering Law 3: "A dangerous shelter is still a shelter."
+- `session-05-the-war-work.md`: Script for Session 05 covering Law 5: "Work becomes the war you can win."
 
 ---
 *Note: This program focuses on understanding the "wiring" and "machine" rather than digging through personal trauma.*
