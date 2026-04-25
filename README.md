@@ -20,6 +20,7 @@ The program is designed as a 5-week accelerated core covering ten laws that addr
 
 - `session-00-the-summons.md`: The word-for-word script for the recruitment briefing.
 - `session-01-the-alarm.md`: Script for Session 01 covering Law 1: "Your alarm never shuts off."
+- `session-02-the-ghosts.md`: Script for Session 02 covering Law 2: "You're carrying ghosts you never met."
 
 ---
 *Note: This program focuses on understanding the "wiring" and "machine" rather than digging through personal trauma.*
