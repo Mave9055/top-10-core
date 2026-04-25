@@ -26,6 +26,8 @@ The program is designed as a 5-week accelerated core covering ten laws that addr
 - `session-06-the-broken-mirror.md`: Script for Session 06 covering Law 6: "You were looking in a broken mirror."
 - `session-07-the-disappearing.md`: Script for Session 07 covering Law 7: "You learned to disappear."
 - `session-08-the-exit.md`: Script for Session 08 covering Law 8: "You scan every room for exits."
+- `session-09-the-freeze.md`: Script for Session 09 covering Law 9: "You stop when you can't fight or run."
+- `session-10-the-circuit-breaker.md`: Script for Session 10 covering Law 10: "You leave your body."
 
 ---
 *Note: This program focuses on understanding the "wiring" and "machine" rather than digging through personal trauma.*
