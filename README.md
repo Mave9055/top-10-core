@@ -1,6 +1,6 @@
 # Top 10 Core: The Summons
 
-This repository contains the recruitment briefing and session script for the **5-Week Top 10 Core** program.
+This repository contains the recruitment briefing and session scripts for the **5-Week Top 10 Core** program.
 
 ## Overview
 
@@ -19,6 +19,7 @@ The program is designed as a 5-week accelerated core covering ten laws that addr
 ## Contents
 
 - `session-00-the-summons.md`: The word-for-word script for the recruitment briefing.
+- `session-01-the-alarm.md`: Script for Session 01 covering Law 1: "Your alarm never shuts off."
 
 ---
 *Note: This program focuses on understanding the "wiring" and "machine" rather than digging through personal trauma.*
