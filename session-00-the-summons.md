@@ -69,29 +69,24 @@ This course doesn't tell you to stop using. That's between you and whatever you 
 
 ### [10:00 – 18:00] THE TOP 10 CORE – WHAT YOU'LL LEARN IN 5 WEEKS
 
-We're going to run a **5-week accelerated core**. Two laws per night. Ten laws total.
+We're going to run a **5-week accelerated core**. One session per week, covering two laws each. Ten laws total.
 
 Here's exactly what you'll learn:
 
 **Week 1 – Why You Feel This Way**
-- Law 1: The Alarm – why you can't relax in a safe room.
-- Law 2: The Ghosts – why you carry weight you didn't earn.
+Laws 1 & 2: The Alarm and The Ghosts. Why you can't relax and why you carry weight you didn't earn.
 
 **Week 2 – Why You Get Stuck**
-- Law 3: The Shelter – why you stay in bad relationships, jobs, and patterns.
-- Law 9: The Freeze – why you lock up when it matters (and why the system calls it noncompliance).
+Laws 3 & 9: The Shelter and The Freeze. Why you stay in bad patterns and why you lock up when it matters.
 
 **Week 3 – Anger and Vigilance**
-- Law 4: The Mourning – why rage is actually a funeral, and what you're really grieving.
-- Law 8: The Exit – why you scan every room for exits and never feel safe.
+Laws 4 & 8: The Mourning and The Exit. Why rage is a funeral and why you never feel safe.
 
 **Week 4 – How You Act**
-- Law 5: The War-Work – why you can't stop doing, and why overwork is just panic wearing a suit.
-- Law 7: The Disappearing – why you say yes when you mean no, and why you learned to erase yourself.
+Laws 5 & 7: The War-Work and The Disappearing. Why overwork is panic and why you erase yourself.
 
 **Week 5 – Who You Are**
-- Law 6: The Mirror – why you think you're a monster, and the broken mirror that taught you that.
-- Law 10: The Circuit Breaker – why you leave your body, lose time, feel like a ghost – and why that's a survival mechanism, not craziness.
+Laws 6 & 10: The Mirror and The Circuit Breaker. Why you think you're a monster and why you leave your body.
 
 That's the core. Ten laws. Five weeks.
 
