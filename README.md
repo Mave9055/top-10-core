@@ -1,5 +1,7 @@
 # Top 10 Core: The Summons
 
+![Top 10 Core Poster](top-10-core-poster.png)
+
 This repository contains the recruitment briefing and session scripts for the **5-Week Top 10 Core** program.
 
 ## Overview
